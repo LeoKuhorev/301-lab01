@@ -15,6 +15,7 @@
     background: #004718;
   }
 
+
   /* STAND-ALONE SECTION START */
   .stand-alone > div{
     height: 200px;
@@ -32,6 +33,7 @@
     background: #006622;
   }
   /* STAND-ALONE SECTION END */
+
 
   /* GROUPED SECTION START */
   .grouped > div {
@@ -54,8 +56,9 @@
   .grouped div:nth-child(4) {
     background: #00aa39;
   }
-  /* GROUPED SECTION START */
+  /* GROUPED SECTION END */
 
+  
   footer {
     clear: none;
     height: 150px;
